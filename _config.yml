@@ -1,7 +1,7 @@
 name: ImranKhan
 favicon: null
-layout_spectrum: 0.873031695606187
-typography_spectrum: 0.8598082177340984
+layout_spectrum: 0.25557
+typography_spectrum: 0.56265
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.4746718667447567
-  lightness: 0.5440405877307057
-  saturation: 0.11527892132289708
-  rhythmicContrast: 0.37570168799720705
+  brandStrength: 0.3125
+  lightness: 0.375
+  saturation: 0.8125
+  rhythmicContrast: 0.25
 purpose: []
