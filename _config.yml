@@ -1,0 +1,28 @@
+name: ImranKhan
+favicon: null
+layout_spectrum: 0.873031695606187
+typography_spectrum: 0.8598082177340984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4746718667447567
+  lightness: 0.5440405877307057
+  saturation: 0.11527892132289708
+  rhythmicContrast: 0.37570168799720705
+purpose: []
