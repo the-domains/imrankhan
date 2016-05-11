@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Through the looking glass
-datePublished: '2016-05-11T02:53:11.449Z'
-dateModified: '2016-05-11T02:52:53.131Z'
+datePublished: '2016-05-11T03:05:17.160Z'
+dateModified: '2016-05-11T03:05:09.648Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-my-version-of-the-world.md
@@ -21,6 +21,6 @@ url: my-version-of-the-world/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71fe264f-8be8-4385-8281-3eb286a8c37b.jpg)
-
 Through the looking glass
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4140a4d-df82-4148-a7f4-aa0525d9606f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99238c8b-d63d-43ed-9b7b-5b9d3d9399b4.jpg)
